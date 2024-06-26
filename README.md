@@ -1,1 +1,1 @@
-[реп](https://github.com/nimelnikova/ono-tebe-nado)
+https://github.com/nimelnikova/ono-tebe-nado
